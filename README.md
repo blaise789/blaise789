@@ -12,7 +12,7 @@ Skills: Spring boot / Nestjs / Nodejs / Reactjs / Python / Go /C++
 - 🤔 I’m looking for help with Machine learning-related projects, especially integrating ML models into backend systems or using AI in decentralized applications. I’d love to connect with experts who can guide me in mastering the practical aspects of AI and machine learning. 
 - 💬 Ask me about backend and frontend
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Blaise789's GitHub stats](https://github-readme-stats.vercel.app/api?username=blaise789&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 <!--
 **blaise789/blaise789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
