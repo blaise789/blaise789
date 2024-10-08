@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**blaise789/blaise789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 ### Hi there 👋, my name is Bigirabagabo Blaise
 #### Backend developer
 I am a passionate backend developer with a strong focus on blockchain technology and artificial intelligence. My expertise lies in building scalable, secure backend systems that drive efficiency and performance. I thrive on solving complex challenges and continuously explore innovative solutions that leverage blockchain's decentralized nature and AI's transformative capabilities. I am committed to staying ahead in the tech world, always looking for ways to integrate cutting-edge technologies into real-world applications. My goal is to build systems that not only meet today’s demands but also shape the future of digital innovation.
@@ -15,6 +11,11 @@ Skills: Spring boot / Nestjs / Nodejs / Reactjs / Python / Go /C++
 - 👯 I’m looking to collaborate on Backend development projects that involve blockchain technology and artificial intelligence. I’m excited to work with other developers, data scientists, and AI researchers to build innovative, secure, and scalable systems that solve real-world problems 
 - 🤔 I’m looking for help with Machine learning-related projects, especially integrating ML models into backend systems or using AI in decentralized applications. I’d love to connect with experts who can guide me in mastering the practical aspects of AI and machine learning. 
 - 💬 Ask me about backend and frontend 
+
+<!--
+**blaise789/blaise789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/blaise789)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bigirabagabo blaise/)  
